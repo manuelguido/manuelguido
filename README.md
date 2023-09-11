@@ -1,6 +1,6 @@
 # Manuel Guido
 
-**`Full Stack Web Application Developer`**
+**Full Stack Web Application Developer**
 
 ### Languages and Tools
 
@@ -19,3 +19,5 @@
 <br />
 
 #
+
+![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelguido&show_icons=true&theme=transparent) 
