@@ -1,8 +1,6 @@
-# Manuel Guido
+# Manuel Guido - Full Stack Web Developer
 
-**Full Stack Web Application Developer**
-
-### Languages and Tools
+### Tech stack
 
 <img align="left" alt="Laravel"    width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="MySQL"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -18,6 +16,10 @@
 <img align="left" alt="Bash"       width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+### Github
 
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelguido&show_icons=true&theme=transparent) 
+<p align="left">
+  <a href="https://github.com/manuelguido">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
