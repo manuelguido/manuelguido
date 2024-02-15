@@ -1,4 +1,4 @@
-# Manuel Guido - Full Stack Web Developer
+# Manuel Guido - Full-Stack Web Engineer
 
 ### Tech stack
 
