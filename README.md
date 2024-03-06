@@ -1,4 +1,4 @@
-# Manuel Guido - Full-Stack Engineer
+# Manuel Guido - Full Stack Engineer
 
 ### Tech stack
 
