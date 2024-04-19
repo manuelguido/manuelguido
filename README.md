@@ -21,6 +21,6 @@
 
 <p align="left">
   <a href="https://github.com/manuelguido">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    [![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelguido)](https://github.com/manuelguido/github-readme-stats)
   </a>
 </p>
