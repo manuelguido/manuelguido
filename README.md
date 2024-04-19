@@ -20,5 +20,8 @@
 ### Github
 
 <p align="left">
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelguido&" alt="manuelguido" />
 </p>
