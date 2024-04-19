@@ -16,12 +16,14 @@
 <img align="left" alt="Git"        width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash"       width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+<br />
 
-### Github
+## Visit my Personal Portfolio
 
-<p align="left">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelguido&" alt="manuelguido" />
-</p>
+<img src="https://media.licdn.com/dms/image/D4D2DAQFUkycD3oP4-g/profile-treasury-image-shrink_800_800/0/1709160964491?e=1714147200&v=beta&t=NaRDlQjnN3j7yJ6ulB53i-gKe9KNqd_4OJNbBZZcNm4" alt="Personal Portfolio" width="497rem" />
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelguido)
