@@ -20,7 +20,5 @@
 ### Github
 
 <p align="left">
-  <a href="https://github.com/manuelguido">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelguido)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelguido&" alt="manuelguido" />
 </p>
