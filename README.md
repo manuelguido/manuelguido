@@ -18,12 +18,6 @@
 <br />
 <br />
 
-## Visit my Personal Portfolio
-
-<a href="https://manuelguido.dev" target="_blank">
-  <img src="https://media.licdn.com/dms/image/D4D2DAQFUkycD3oP4-g/profile-treasury-image-shrink_800_800/0/1709160964491?e=1714147200&v=beta&t=NaRDlQjnN3j7yJ6ulB53i-gKe9KNqd_4OJNbBZZcNm4" alt="Personal Portfolio" width="497rem" />
-</a>
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
