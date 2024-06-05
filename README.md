@@ -1,8 +1,8 @@
 # Manuel Guido - Full Stack Engineer
 
-### Tech stack
+## Tech stack
 
-#### Front-end
+### Front-end
 
 <img align="left" alt="Vue.js"      width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Nuxt.js"     width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
@@ -13,7 +13,7 @@
 
 <br />
 
-#### Back-end
+### Back-end
 
 <img align="left" alt="Laravel"     width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Postgresql"  width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -23,7 +23,7 @@
 
 <br />
 
-#### Tools and development
+### Tools and development
 
 <img align="left" alt="GitHub"      width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git"         width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
