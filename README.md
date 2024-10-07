@@ -39,6 +39,4 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=manuelguido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelguido)
