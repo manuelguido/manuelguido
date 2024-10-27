@@ -40,4 +40,4 @@
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelguido)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelguido)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelguido&show=prs_merged)
