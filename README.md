@@ -30,7 +30,7 @@ A SaaS workspace for building and managing design systems.
 - Multi-project Workspace
 - Theme Management
 
-→ https://patagonia.manuelguido.dev
+→ https://patagoniaui.com
 
 ---
 
