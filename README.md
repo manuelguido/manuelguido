@@ -1,42 +1,149 @@
-# Manuel Guido - Software Engineer
+# Manuel Guido
 
-## Tech stack
+### Senior Full Stack Engineer
 
-### Front-end
+I build production-grade Laravel applications, developer tools and modern web products with a strong focus on architecture, product quality and user experience.
 
-<img align="left" alt="Vue.js"         width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Nuxt.js"        width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-<img align="left" alt="JavaScript"     width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript"     width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="HTML"           width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS"            width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+Currently working with Laravel, Vue, TypeScript, PostgreSQL and Redis while building developer-focused products and production systems.
 
-<br />
+---
 
-### Back-end
+## Current Focus
 
-<img align="left" alt="PHP"            width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel"        width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Postgresql"     width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL"          width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Python"         width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Flask"          width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+- Building high-quality Laravel applications
+- Developer tools and productivity software
+- Product architecture and backend APIs
+- Modern Vue + TypeScript interfaces
+- Production systems and infrastructure
 
-<br />
+---
 
-### Development and operations
+## Featured Projects
 
-<img align="left" alt="GitHub"         width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git"            width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Github Actions" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img align="left" alt="Bash"           width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="SSH"            width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
-<img align="left" alt="Postman"        width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="RabbitMQ"       width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+### Patagonia UI
 
-<br />
-<br />
+A SaaS workspace for building and managing design systems.
 
-## GitHub Stats
+- Design Tokens
+- Tailwind CSS Export
+- Component Library
+- Multi-project Workspace
+- Theme Management
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelguido)
+→ https://patagonia.manuelguido.dev
+
+---
+
+### SQL Studio
+
+Visual database modeling and SQL generation.
+
+- Interactive schema designer
+- Relationships
+- SQL export
+- Keyboard shortcuts
+- Local persistence
+
+→ https://sqlstudio.manuelguido.dev
+
+---
+
+### Webhook Inspector
+
+Inspect, analyze and debug incoming webhooks.
+
+- Real-time request inspection
+- JSON explorer
+- Payload viewer
+- Search & filtering
+- Replay support
+
+→ https://webhookinspector.manuelguido.dev
+
+---
+
+### API Contract Studio
+
+Analyze JSON payloads and generate API contracts.
+
+- Contract analysis
+- Nested object inspection
+- Type inference
+- Exportable schemas
+
+---
+
+### Strategy Board
+
+Visual architecture modeling for modern applications.
+
+- APIs
+- Databases
+- Queues
+- Services
+- System diagrams
+
+---
+
+### ChainScope
+
+A self-contained Ethereum explorer built with Laravel and Vue.
+
+- Blocks
+- Transactions
+- Wallets
+- Network statistics
+- Search
+
+---
+
+## Core Stack
+
+**Backend**
+
+- Laravel
+- PHP
+- REST APIs
+- PostgreSQL
+- MySQL
+- Redis
+- RabbitMQ
+
+**Frontend**
+
+- Vue
+- Inertia.js
+- TypeScript
+- Tailwind CSS
+
+**Engineering**
+
+- Git
+- GitHub Actions
+- PHPUnit
+- CI/CD
+
+---
+
+## Philosophy
+
+I enjoy building products that are clean, maintainable and pleasant to use.
+
+My focus is not only writing code, but designing software that scales well, remains understandable over time and delivers a polished user experience.
+
+---
+
+## Find me
+
+Portfolio  
+https://manuelguido.dev
+
+LinkedIn  
+https://linkedin.com/in/manuelguido
+
+Email  
+contact@manuelguido.dev
+
+---
+
+> Building software with attention to product quality, developer experience and long-term maintainability.
